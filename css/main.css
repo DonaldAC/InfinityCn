@@ -539,19 +539,19 @@ header nav {
     margin-left: -134px;
 }
 .name1 {
-    width: 41%;
+    width: 50%;
     text-align: left;
 }
 .name2 {
     margin: 5px;
-    width: 42%;
-    padding-top: 20.50px;
+    width: 50%;
+    padding-top: 42.50px;
     text-align: left;
 }
 .name3, .name4 {
     margin: 5px;
-    width: 42%;
-    padding-top: 20.50px;
+    width: 50%;
+    padding-top: 42.50px;
     text-align: left;
 }
 
