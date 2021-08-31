@@ -286,7 +286,7 @@ header nav {
     width: 56px;
     height: 5px;
     background: #fff;
-    margin-left: 560px;
+    margin-left: 475px;
     margin-bottom: 50px;
     margin-top: -25px;
 }
@@ -309,7 +309,7 @@ header nav {
 }
 .section3 .col-2 a {
     position: absolute;
-    bottom: -6px;
+    bottom: 22px;
     left: 35%;  
 }
 .section3 .col-1 a, .section3 .col-3 a {
@@ -385,7 +385,7 @@ header nav {
     width: 56px;
     height: 5px;
     background: #163841;
-    margin-left: 715px;
+    margin-left: 609px;
     margin-bottom: 37px;
     margin-top: -4px;
 }
@@ -418,7 +418,7 @@ header nav {
   
 .log:hover {
     transform: scale(1.2);
-    opacity: .5;
+    opacity: .8;
     cursor: pointer;
 }
 
@@ -457,7 +457,7 @@ header nav {
 
 /*************** Section 5 ***************/
 .section5 {
-    margin-top: 400px;
+    margin-top: 450px;
     /* height: 500px; */
     text-align: center;
 }
@@ -465,7 +465,7 @@ header nav {
     width: 56px;
     height: 5px;
     background: #fff;
-    margin-left: 432px;
+    margin-left: 367px;
     margin-bottom: 37px;
     margin-top: -4px;
 }
